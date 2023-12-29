@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eddie78718
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on finding lost wallet
+- 💞️ I’m looking to collaborate on everything meaningful
 - 📫 How to reach me addyeddie8@gmail.com
 
 <!---
